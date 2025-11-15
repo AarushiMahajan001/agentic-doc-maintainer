@@ -1,0 +1,3 @@
+- name: "Calgary crime sequence creator"
+  module_path: "Calgary_Crime_Data_Analysis_and_Neural_Network_Prediction/Calgary_Crime_Data_Analysis_and_Neural_Network_Prediction.py"
+  query: "sequence creation for crime time series"
