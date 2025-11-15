@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+numpy
+pydantic
+pyyaml
+tqdm
+streamlit
+duckdb
+astor
+openai
+python-dotenv
+groq

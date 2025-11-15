@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Venv
+.venv/
+
+# Local data + indexes + generated docs
+data/index/
+data/docs/
+data/repo/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
